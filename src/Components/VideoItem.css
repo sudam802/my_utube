@@ -1,0 +1,21 @@
+/* VideoItem.css */
+.video-item {
+    display: flex !important;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .video-item.item img {
+    width: 180px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px;
+  }
+  
+  .item .content {
+    flex: 1;
+  }
+  
+  .item .header {
+    font-size: 16px; /* Adjust font size as needed */
+  }
+  
