@@ -1,4 +1,3 @@
-import react from "react";
 
 const VideoDetail = ({ video }) => {
   if (video == null) {
