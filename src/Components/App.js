@@ -31,7 +31,7 @@ class App extends React.Component {
       <div className="ui grid">
         <div className="ui row">
           <div className="three wide column">
-            <SidePannel />
+            
           </div>
           <div className="thirteen wide column">
             <div className="ui container">
